@@ -2,7 +2,7 @@
 - 💼 I am a professional Data Scientist
 - 📍I am based in Paris
 - 👨🏻‍🎓 Masters in AI and Data Science from ELTE Budapest and UR1 Rennes
-- 🌎 I have lived in 11 countries  
+- 🌎 I have travelled 11 countries in lived in 4  
 
 
 <!---
